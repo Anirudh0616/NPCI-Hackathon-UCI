@@ -1,7 +1,7 @@
 # NPCI-Hackathon-UCI
 Our team's ( Positive Pioneers ) solution to the NPCI (E-Cell) Hackathon at IITH. Developed a Unified Rewards System , called Points.ly (in discussion) using Flutter.
 
-whatUserSees folder contains all the design schematics for the things that the consumer will see, and whatVendorSees folder contains the same for the things that the store owner/vendor will see.
+images/whatUserSees folder contains all the design schematics for the things that the consumer will see, and images/whatVendorSees folder contains the same for the things that the store owner/vendor will see.
 Please check out points.docx for more info on the project 
 
 ---
