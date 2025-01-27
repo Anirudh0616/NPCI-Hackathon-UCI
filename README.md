@@ -7,3 +7,7 @@ Please check out points.docx for more info on the project
 ---
 ![Points.ly](https://github.com/Anirudh0616/NPCI-Hackathon-UCI/blob/main/logo_lights.png)
 
+---
+Made possible by 
+[Anirudh Bhat "Shrek"](https://github.com/Anirudh0616)
+[Shanmukh Machiraju "Machi"]()
