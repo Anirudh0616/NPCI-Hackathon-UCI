@@ -5,7 +5,7 @@ images/whatUserSees folder contains some of the design schematics for the things
 
 We're yet to figure out most of the UI elements of the project.
 
-Please check out [unifiedCreditInterface.docx](https://github.com/Anirudh0616/Unified-Rewards-System/blob/main/UnifiedRewardSystem.docx) for more info on the project 
+Please check out [UnifiedRewardSystem.docx](https://github.com/Anirudh0616/Unified-Rewards-System/blob/main/UnifiedRewardSystem.docx) for more info on the project 
 
 ---
 ![Points.ly](https://github.com/Anirudh0616/NPCI-Hackathon-UCI/blob/main/logo_lights.png)
